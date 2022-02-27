@@ -44,6 +44,3 @@ requests
 
 * [Materialize](https://materializecss.com/) - A modern responsive front-end framework based on Material Design
 * [Django](https://www.djangoproject.com/) - Web framework
-
- 
-"# Lights-Out" 
